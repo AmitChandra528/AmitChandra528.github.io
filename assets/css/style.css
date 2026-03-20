@@ -141,6 +141,14 @@ h2 {
     .fh5co-home-banner .center-text {
       top: 30%; } }
 
+.watch-btn {
+  display: inline-block;
+  padding: 3px 9px;
+  background: #220912; /* Instagram color */
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
 .fh5co-two-img .card-img-overlay {
   background: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
   background: -moz-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
